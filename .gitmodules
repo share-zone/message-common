@@ -1,0 +1,3 @@
+[submodule "base-common"]
+	path = base-common
+	url = git@github.com:share-zone/base-common.git
